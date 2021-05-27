@@ -1,3 +1,5 @@
 theme: jekyll-theme-slate
 title: Using satellite data and machine learning to target anticipatory assistance in climate disasters
 description: A Research Agenda
+github:
+  is_project_page: false
