@@ -52,4 +52,7 @@ In developing this research agenda, we seek to:
 
 
 [^1]: Northern Bangladesh experiences annual monsoon fluvial flooding that often exceeds the capacity of ultra-poor subsistence farming households to cope. Floods in 2020 were the highest and longest in decades.
+
 [^2]: *MobileAid* was coined by The Centre for Effective Global Action, University of California, Berkeley.
+
+
