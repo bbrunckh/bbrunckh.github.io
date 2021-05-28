@@ -4,3 +4,4 @@ description: Using satellite data and machine learning to target anticipatory as
 github:
   is_project_page: false
   is_user_page: false
+  display: none !important
