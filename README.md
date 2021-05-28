@@ -38,9 +38,9 @@ We propose to explore the potential of using machine learning-based targeting an
 
 4. **Evaluate predictions against actual welfare and livelihood impacts** for almost 10,000 households surveyed after severe monsoon floods in Bangladesh
 
-5. **Address the ethics of AI** using the Bangladesh evaluation as a case study, with careful consideration of discrimination implicit in the algorthithm that may incorrectly exclude vulnerable households from receiving much needed assistance.
+5. **Address the ethics of AI**, using the Bangladesh evaluation as a case study, with careful consideration of discrimination implicit in the algorthithm that may incorrectly exclude vulnerable households from receiving much needed assistance.
 
-6. **Compare targeting alternatives and simulate the effect of cash transfers** using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households 
+6. **Compare targeting alternatives and simulate the effect of cash transfers**, using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households 
 
 ### An agenda to (continuously) improve
 
