@@ -12,7 +12,7 @@ We surveyed 9,130 households 10-12 weeks later to evaluate the effect of these c
 
 Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. **What if we could identify in advance where disasters are most likely to have persistent impacts on livelihoods and well-being?** Innovative approaches from others that are harnessing machine learning to target assistance lay the groundwork. 
 
-## The *MobileAid* paradigm<sup id="a2">[2](#f2)</sup>
+## The *MobileAid*<sup id="a2">[2](#f2)</sup> paradigm
 
 Building on [advances in poverty mapping](http://www.povertymaps.net/brief/), Togo’s successful Novissi program in 2020 was one of the first public sector programs [targeting social assistance using mobile phone and satellite data](https://www.poverty-action.org/study/using-mobile-phone-and-satellite-data-target-emergency-cash-transfers-togo#footnote-1). This [MobileAid](https://medium.com/center-for-effective-global-action/how-precision-aid-and-machine-learning-based-targeting-can-complement-existing-social-protection-de3bc3211fd2) combines machine learning-based targeting, with recipient self-enrolment and contactless delivery via mobile money. It marks an important policy shift, as machine learning-based wealth estimates using non-traditional data have largely been confined to academic research in the past. Early evidence indicates **better accuracy and a greater proportion of the poorest receiving benefits** (less errors of exclusion and inclusion) compared to standard targeting practices. 
 
@@ -53,6 +53,6 @@ In developing this research agenda, we seek to:
 
 <b id="f1">1</b> Northern Bangladesh experiences annual monsoon fluvial flooding that often exceeds the capacity of ultra-poor subsistence farming households to cope. Floods in 2020 were the highest and longest in decades. [↩](#a1)
 
-<b id="f2">1</b> *MobileAid* was coined by The Centre for Effective Global Action, University of California, Berkeley. [↩](#a2)
+<b id="f2">2</b> *MobileAid* was coined by The Centre for Effective Global Action, University of California, Berkeley. [↩](#a2)
 
 
