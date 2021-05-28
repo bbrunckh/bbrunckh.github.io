@@ -20,7 +20,7 @@ Beyond the surprisingly persistent impacts on a wide range of outcomes, we found
 
 Building on [advances in poverty mapping](http://www.povertymaps.net/brief/), Togo’s successful Novissi program in 2020 was one of the first public sector programs [targeting social assistance using mobile phone and satellite data](https://www.poverty-action.org/study/using-mobile-phone-and-satellite-data-target-emergency-cash-transfers-togo#footnote-1). Early evidence from Togo suggests **better accuracy and a greater proportion of the poorest receiving benefits** (less errors of exclusion and inclusion) compared to standard targeting practices. This approach  [combined machine learning-based targeting, recipient self-enrolment and contactless delivery via mobile money](https://medium.com/center-for-effective-global-action/how-precision-aid-and-machine-learning-based-targeting-can-complement-existing-social-protection-de3bc3211fd2).
 
-These methods can be deployed **rapidly** and **at scale**, making them especially well-suited in climate disasters like flooding, when [timely assistance has large welfare benefits](https://www.disasterprotection.org/latest-news/the-importance-of-being-timely-in-climate-disaster-response). Combined with innovations in [flood forecasting](https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html) and [exposure models](https://www.nature.com/articles/s41467-019-09282-y), there is incredible potential to **integrate climate disasters** in this framework in order to better target assistance in anticipation of shocks, helping to break the cycle of poverty and disaster loss.  
+These methods can be deployed **rapidly** and **at scale**, making them especially well-suited in climate disasters like flooding, when [timely assistance has large welfare benefits](https://www.disasterprotection.org/latest-news/the-importance-of-being-timely-in-climate-disaster-response). Combined with innovations in [flood forecasting](https://ai.googleblog.com/2020/09/the-technology-behind-our-recent.html) and [exposure models](https://www.nature.com/articles/s41467-019-09282-y), there is incredible potential to **integrate climate disasters** in this framework to better target assistance in anticipation of shocks, helping to break the cycle of poverty and disaster loss.  
 
 ### Our approach
 
@@ -36,9 +36,11 @@ We propose to explore the potential of using machine learning-based targeting an
 
 3. **Overlay real-time event specific flood data and inundation forecasts** to highlight the most exposed regions at the onset of a disaster  
 
-4. **Evaluate predictions against actual welfare and livelihood impacts** for almost 10,000 households surveyed after severe monsoon floods in Bangladesh  
+4. **Evaluate predictions against actual welfare and livelihood impacts** for almost 10,000 households surveyed after severe monsoon floods in Bangladesh
 
-5. **Compare targeting alternatives and simulate the effect of cash transfers** using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households  
+5. **Address the ethics of AI** and **compare targeting alternatives**, using the Bangladesh evaluation as a case study, with careful consideration of discrimination implicit in the algorthithm that may incorrectly exclude vulnerable households from receiving much needed assistance.
+
+6. **Simulate the effect of cash transfers** using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households 
 
 ### An agenda to (continuously) improve
 
