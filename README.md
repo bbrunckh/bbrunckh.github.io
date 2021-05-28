@@ -46,15 +46,15 @@ We propose to explore the potential of using machine learning-based targeting an
 
 In developing this research agenda, we seek to:
 
-- **Collaborate with government** and key institutions throughout to complement existing capabilities, ensure feasibility, streamline implementation and encourage enrolment.
+- **Collaborate with government** and key institutions throughout to complement existing capabilities, ensure feasibility, streamline implementation and encourage enrolment
 
-- **Improve the quality and quantity of ground truth data** for training and validation by investing in a series of representative post-disaster household surveys.
+- **Improve the quality and quantity of ground truth data** for training and validation by investing in a series of representative post-disaster household surveys
 
-- **Gain access to high-resolution inputs** that capture important information, such as mobile phone, social network or connectivity metadata during a disaster, in order to improve targeting performance.
+- **Gain access to high-resolution inputs** that capture important information, such as mobile phone, social network or connectivity metadata during a disaster, in order to improve targeting performance
 
-- **Calibrate models** for location specific [evolution in flood risk](https://www.hull.ac.uk/work-with-us/research/institutes/energy-and-environment-institute/our-work/evoflood-quantifying-the-evolution-of-flood-hazard-and-risk-across-a-changing-world) and demographics so that trigger ready assistance can be targeted in a dynamic way year after year, especially in places prone to seasonal disasters. 
+- **Calibrate models** for location specific [evolution in flood risk](https://www.hull.ac.uk/work-with-us/research/institutes/energy-and-environment-institute/our-work/evoflood-quantifying-the-evolution-of-flood-hazard-and-risk-across-a-changing-world) and demographics so that trigger ready assistance can be targeted in a dynamic way year after year, especially in places prone to seasonal disasters
 
-- **Identify biases** and refine machine learning methods so that training data and inputs are used in an effective and equitable way based on community engagement, validation and targeting performance.
+- **Identify biases** and refine machine learning methods so that training data and inputs are used in an effective and equitable way based on community engagement, validation and targeting performance
 
 
 ------
