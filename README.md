@@ -30,17 +30,17 @@ We propose to explore the potential of using machine learning-based targeting an
 
 1. **Train deep learning algorithms** to estimate vulnerability to climate shocks over space before a flood shock, by combining poverty maps with flood specific training data: 
 - Ground truth: 100,000+ household surveys from regions affected by flooding
-- Inputs: satellite imagery, flood risk maps and other high resolution spatial data
+- Inputs: satellite imagery, flood risk maps and other high resolution spatial data  
 
 2. **Identify the most vulnerable households** in the most vulnerable regions before a flood shock:
 - Based on  basic household characteristics, recorded in pre-registration 
-- Based on machine-learning methods using mobile phone metadata
+- Based on machine-learning methods using mobile phone metadata  
 
-3. **Overlay real-time event specific flood data and inundation forecasts** to highlight the most exposed regions at the onset of a disaster 
+3. **Overlay real-time event specific flood data and inundation forecasts** to highlight the most exposed regions at the onset of a disaster  
 
-4. **Evaluate predictions against actual welfare and livelihood impacts** for almost 10,000 households surveyed after severe monsoon floods in Bangladesh
+4. **Evaluate predictions against actual welfare and livelihood impacts** for almost 10,000 households surveyed after severe monsoon floods in Bangladesh  
 
-5. **Compare targeting alternatives and simulate the effect of cash transfers** using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households
+5. **Compare targeting alternatives and simulate the effect of cash transfers** using the Bangladesh cash transfer evaluation as a benchmark for pre-registered households  
 
 ### An agenda to (continuously) improve
 
