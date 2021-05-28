@@ -2,7 +2,7 @@
 
 ### Background
 
-Globally, [1.47 billion people are exposed to the risk of intense flooding](https://blogs.worldbank.org/climatechange/147-billion-people-face-flood-risk-worldwide-over-third-it-could-be-devastating); 89% of these live in low and middle-income countries. More than 1 in 3 are poor. 132 million live in extreme poverty. Evidence points to a [vicious circle of disaster loss and poverty](https://link.springer.com/article/10.1007/s41885-020-00060-5), but what if **better targeting of earlier assistance** could help break it?
+Globally, [1.47 billion people are exposed to the risk of intense flooding](https://blogs.worldbank.org/climatechange/147-billion-people-face-flood-risk-worldwide-over-third-it-could-be-devastating); 89% of these live in low and middle-income countries. More than 1 in 3 are poor. 132 million live in extreme poverty. Evidence points to a [vicious circle of disaster loss and poverty](https://link.springer.com/article/10.1007/s41885-020-00060-5), but  **better targeting of earlier assistance** could help break it.
 
 ### Our experience in Bangladesh
 
@@ -10,7 +10,7 @@ In 2020, the United Nations piloted *anticipatory* cash transfers to vulnerable 
 
 We surveyed 9,130 households 10-12 weeks later to evaluate the effect of these cash transfers. [Our evaluation](https://www.disasterprotection.org/anticipatory-cash-transfers-in-climate-disaster-response), the first of its scale and rigour in a humanitarian setting, found that **timely assistance has large welfare benefits in a climate disaster**. Cash transfers improved food security, increased evacuation and decreased asset loss. At the time of the survey, beneficiaries had higher child and adult food consumption, better mental wellbeing, engaged in less costly borrowing, and reported higher earning potential than comparable control households. These benefits accrued before a traditional response would normally arrive. Moreover, speed of delivery matters: the effect of cash is predicted to dissipate entirely if the transfer is not received within 12 days of the local flood peak.
 
-Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. **What if we could identify in advance where disasters are most likely to have persistent impacts on livelihoods and well-being?** Innovative approaches from others that are harnessing machine learning to target assistance lay the groundwork. 
+Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. **What if we could identify where disasters are most likely to have persistent impacts on livelihoods and well-being in advance?** Innovative approaches from others that are harnessing machine learning to target assistance lay the groundwork. 
 
 ### The *MobileAid* paradigm<sup id="a2">[2](#f2)</sup>
 
