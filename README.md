@@ -2,7 +2,7 @@
 
 ### Background
 
-Globally, [1.47 billion people are exposed to the risk of intense flooding](https://blogs.worldbank.org/climatechange/147-billion-people-face-flood-risk-worldwide-over-third-it-could-be-devastating); 89% of them live in low and middle-income countries. More than 1 in 3 are poor. 132 million live in extreme poverty. Evidence points to a [vicious circle of disaster loss and poverty](https://link.springer.com/article/10.1007/s41885-020-00060-5), but what if **better targeting of earlier assistance** could help break it?
+Globally, [1.47 billion people are exposed to the risk of intense flooding](https://blogs.worldbank.org/climatechange/147-billion-people-face-flood-risk-worldwide-over-third-it-could-be-devastating); 89% of these live in low and middle-income countries. More than 1 in 3 are poor. 132 million live in extreme poverty. Evidence points to a [vicious circle of disaster loss and poverty](https://link.springer.com/article/10.1007/s41885-020-00060-5), but what if **better targeting of earlier assistance** could help break it?
 
 ### Our experience in Bangladesh
 
