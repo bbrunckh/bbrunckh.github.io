@@ -12,7 +12,9 @@ We surveyed 9,130 households 10-12 weeks later to evaluate the effect of these c
 
 Cash transfers improved food security, increased evacuation and decreased asset loss. At the time of the survey, beneficiaries had higher child and adult food consumption, better mental wellbeing, engaged in less costly borrowing, and reported higher earning potential than comparable control households. These benefits accrued before a traditional response would normally arrive. Moreover, speed of delivery matters: the effect of cash is predicted to dissipate entirely if the transfer is not received within 12 days of the local flood peak.
 
-Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. **What if we could identify where disasters would have persistent impacts on livelihoods and well-being in advance?** Innovative approaches developed by others that harness machine learning to target assistance lay the groundwork. 
+Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. 
+
+**What if we could identify where disasters would have persistent impacts on livelihoods and well-being in advance?** Innovative approaches developed by others that harness machine learning to target assistance lay the groundwork. 
 
 ### The *MobileAid* paradigm<sup id="a2">[2](#f2)</sup>
 
