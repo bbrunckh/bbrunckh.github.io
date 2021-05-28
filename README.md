@@ -51,8 +51,8 @@ In developing this research agenda, we seek to:
 - **Identify biases** and refine machine learning methods so that training data and inputs are used in an effective and equitable way based on community engagement, validation and targeting performance.
 
 
+------
 
+<sub> <b id="f1">*1*</b>  Northern Bangladesh experiences annual monsoon fluvial flooding that often exceeds the capacity of ultra-poor subsistence farming households to cope. Floods in 2020 were the highest and longest in decades. [↩](#a1) /sub>
 
-<sub> <b id="f1">*1*</b>  Northern Bangladesh experiences annual monsoon fluvial flooding that often exceeds the capacity of ultra-poor subsistence farming households to cope. Floods in 2020 were the highest and longest in decades. [↩](#a1) \<sub>
-
-<sub> <b id="f2">*2*</b>  *MobileAid* was coined by The Centre for Effective Global Action, University of California, Berkeley. [↩](#a2) \<sub>
+<sub> <b id="f2">*2*</b>  *MobileAid* was coined by The Centre for Effective Global Action, University of California, Berkeley. [↩](#a2) </sub>
