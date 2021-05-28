@@ -46,7 +46,7 @@ In developing this research agenda, we seek to:
 
 - **Gain access to high-resolution inputs** that capture important information, such as mobile phone, social network or connectivity metadata during a disaster, in order to improve targeting performance.
 
-- **Calibrate models** for location specific evolution in flood risk and demographics so that trigger ready assistance can be targeted in a dynamic way year after year, especially in places prone to seasonal disasters. 
+- **Calibrate models** for location specific [evolution in flood risk](https://www.hull.ac.uk/work-with-us/research/institutes/energy-and-environment-institute/our-work/evoflood-quantifying-the-evolution-of-flood-hazard-and-risk-across-a-changing-world) and demographics so that trigger ready assistance can be targeted in a dynamic way year after year, especially in places prone to seasonal disasters. 
 
 - **Identify biases** and refine machine learning methods so that training data and inputs are used in an effective and equitable way based on community engagement, validation and targeting performance.
 
