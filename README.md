@@ -26,7 +26,7 @@ MobileAid can be deployed **rapidly** and **at scale**, making it especially wel
 
 ### Our approach
 
-We propose to explore the potential of using machine learning-based targeting and flood forecasts, drawing on our Bangladesh experience and dataset for validation as follows: 
+We propose to explore the potential of using machine learning-based targeting and flood forecasts, drawing on our unique Bangladesh experience and dataset for validation as follows: 
 
 1. **Train deep learning algorithms** to estimate vulnerability to climate shocks over space before a flood shock, by combining poverty maps with flood specific training data: 
 - Ground truth: 100,000+ household surveys from regions affected by flooding
