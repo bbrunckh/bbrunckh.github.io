@@ -14,7 +14,7 @@ Cash transfers improved food security, increased evacuation and decreased asset 
 
 Beyond the surprisingly persistent impacts on a wide range of outcomes, we found that the time taken to target and verify beneficiaries was a serious constraint to scaling-up anticipatory action. The complex range of factors affecting flood impacts are also difficult to assess under time-pressure, which may lead to excluding those who most need assistance, while including the less vulnerable. 
 
-**What if we could identify where disasters would have persistent impacts on livelihoods and well-being in advance?** Innovative approaches developed by others that harness machine learning to target assistance lay the groundwork. 
+**What if we could predict where disasters have persistent impacts on livelihoods and well-being in advance?** Innovative approaches developed by others that harness machine learning to target assistance lay the groundwork. 
 
 ### The *MobileAid* paradigm<sup id="a2">[2](#f2)</sup>
 
