@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
 title: Disaster risk management as poverty reduction
 description: Using satellite data and machine learning to target anticipatory assistance in climate disasters
-github: 
+github:
   is_project_page: false
+  is_user_page: false
