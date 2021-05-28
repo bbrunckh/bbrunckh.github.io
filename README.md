@@ -1,4 +1,4 @@
-*Stefan Dercon, Ben Brunckhorst, Ashley Pople - University of Oxford*
+*Stefan Dercon, Ben Brunckhorst and Ashley Pople - University of Oxford*
 
 >Preliminary version. Please do not cite or share without permission.
 
